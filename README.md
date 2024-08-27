@@ -12,4 +12,4 @@ I'm currently a rising Junior in high school.
 - Familiarizing myself with the Godot game engine
 
 ## My Skills:
-[![My Skills](https://skillicons.dev/icons?i=discord,java,idea,js,postgres,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,java,idea,js,postgres,spring,html,css)](https://skillicons.dev)
